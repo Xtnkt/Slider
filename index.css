@@ -1,0 +1,9 @@
+.SliderWithCats{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.SliderWithCats .slide-img{
+    height: 100px;
+    width: 100px;
+}
